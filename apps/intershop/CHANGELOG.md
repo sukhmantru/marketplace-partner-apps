@@ -1,5 +1,18 @@
 # Changelog
 
+## [1.0.10](https://github.com/contentful/marketplace-partner-apps/compare/intershop-connector-v1.0.9...intershop-connector-v1.0.10) (2024-06-26)
+
+
+### Bug Fixes
+
+* **deps:** bump @contentful/f36-components from 4.65.8 to 4.66.0 in /apps/intershop ([#2055](https://github.com/contentful/marketplace-partner-apps/issues/2055)) ([ec7a593](https://github.com/contentful/marketplace-partner-apps/commit/ec7a5933b763bb41c5801cd10e430aa40ee983fa))
+* **deps:** bump @contentful/f36-components from 4.66.0 to 4.67.0 in /apps/intershop ([#2158](https://github.com/contentful/marketplace-partner-apps/issues/2158)) ([4414385](https://github.com/contentful/marketplace-partner-apps/commit/4414385d943357e692d1aae88649d3711d2db1ef))
+* **deps:** bump @contentful/f36-image from 4.66.0 to 4.67.0 in /apps/intershop ([#2094](https://github.com/contentful/marketplace-partner-apps/issues/2094)) ([0658435](https://github.com/contentful/marketplace-partner-apps/commit/0658435aa872ef30bc20b7b4d78f7951cdc4862b))
+* **deps:** bump braces from 3.0.2 to 3.0.3 in /apps/intershop ([#2062](https://github.com/contentful/marketplace-partner-apps/issues/2062)) ([39d07a7](https://github.com/contentful/marketplace-partner-apps/commit/39d07a755506cdec3c1af741b794e41ca9fd686e))
+* **deps:** bump contentful-management from 11.27.0 to 11.27.1 in /apps/intershop ([#2114](https://github.com/contentful/marketplace-partner-apps/issues/2114)) ([47bba5c](https://github.com/contentful/marketplace-partner-apps/commit/47bba5c13427a640e2c51d40a173326c43a24eda))
+* **deps:** bump contentful-management from 11.27.1 to 11.27.2 in /apps/intershop ([#2136](https://github.com/contentful/marketplace-partner-apps/issues/2136)) ([bdb8943](https://github.com/contentful/marketplace-partner-apps/commit/bdb894332fec62e09bf4c0b7c878eba159d2ea7d))
+* **deps:** bump contentful-management from 11.27.2 to 11.27.3 in /apps/intershop ([#2174](https://github.com/contentful/marketplace-partner-apps/issues/2174)) ([16ddd5c](https://github.com/contentful/marketplace-partner-apps/commit/16ddd5c59af22775492688b233d3c8e7dd240d83))
+
 ## [1.0.9](https://github.com/contentful/marketplace-partner-apps/compare/intershop-connector-v1.0.8...intershop-connector-v1.0.9) (2024-06-07)
 
 
